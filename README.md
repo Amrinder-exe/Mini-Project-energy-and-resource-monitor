@@ -1,6 +1,6 @@
-SMART CAMPUS ENERGY & RESOURCE MONITOR - C++ DEMO
+SMART CAMPUS ENERGY & RESOURCE MONITOR - C++
 
-File: Smart_Campus_Energy_Resource_Demo.cpp
+File: main.cpp
 
 This is a console demonstration using simulated readings for campus buildings.
 It displays electricity use, water use, temperature, occupancy, threshold
